@@ -1,5 +1,5 @@
 {
-	"name": "gamehub-api",
+	"name": "gamehub-token-refresher",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
